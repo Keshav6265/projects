@@ -3,20 +3,20 @@
 - [Mongodb](https://www.mongodb.com/docs/manual/administration/install-community/)
 
 Install the dependencies
-shell
+shell```
 cd server
 yarn
 cd ..
 cd public
-yarn
+yarn```
 
 
 For Backend: Open another terminal<br>
 (mongoDB must be running in background)<br>
 (currently in root directory)
-shell
+shell```
 cd server
-yarn start
+yarn start```
 
 
 ## To Run:
